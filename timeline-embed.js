@@ -22,11 +22,11 @@
 
 /* REPLACE THIS WITH YOUR GOOGLE ANALYTICS ACCOUNT
 ================================================== */
-var embed_analytics = "UA-537357-20";
+var embed_analytics = "UA-72519504-1";
 
 /* REPLACE THIS WITH YOUR BASE PATH FOR TIMELINE
 ================================================== */
-//var embed_path = "http://onedayatatime.com/";
+//var embed_path = "http://rekhamercya.com/";
 
 /* LOAD TIMER
 ================================================== */
